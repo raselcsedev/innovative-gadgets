@@ -10,7 +10,7 @@ const Navbar = ({ setShowCart }: any) => {
     <div className="pt-4 bg-white top-0 sticky">
       <div className="container">
         <div className="flex justify-between items-center">
-          <h1 className="text-4xl font-bold">Logo</h1>
+          <h1 className="text-4xl font-bold">Innovative Gadgets</h1>
 
           <div className="lg:flex hidden w-full max-w-[500px]">
             <input
